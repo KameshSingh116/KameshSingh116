@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 About Me
-```yaml
+
 name: Kamesh Singh
 title: B.Tech Student @ CUSAT, Kerala
 focus: Cybersecurity, Ethical Hacking, Python, Linux
@@ -19,7 +19,7 @@ based_in: Jammu & Kashmir, India 🇮🇳
 status: Open for Internships & Hackathons
 
 💼 Tech Arsenal
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,nodejs,django,mysql,linux,bash,vscode,git,github" /><br> <img src="https://skillicons.dev/icons?i=postman,vercel,netlify" /> </div>
+ <div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,nodejs,django,mysql,linux,bash,vscode,git,github" /><br> <img src="https://skillicons.dev/icons?i=postman,vercel,netlify" /> </div>
 
 ⚔️ Hackathon Glory
 🏆 1st Place – ALOKI 25 @ KMEA College, Kerala
